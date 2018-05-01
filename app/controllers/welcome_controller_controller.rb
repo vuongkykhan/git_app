@@ -1,7 +1,7 @@
 class WelcomeControllerController < ApplicationController
-  def index
-  end
+  def index; end
 
-  def about
-  end
+  def about; end
+
+  def help; end
 end
